@@ -1,1 +1,1 @@
-This caters for school.mgc script
+This Readme explains the basics of shell file execution
