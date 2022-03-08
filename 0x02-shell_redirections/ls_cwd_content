@@ -1,0 +1,14 @@
+total 21
+drwxr-xr-x 1 IYANU MIRABILA 197121    0 Mar  8 02:01 .
+drwxr-xr-x 1 IYANU MIRABILA 197121    0 Mar  8 00:27 ..
+-rwxr-xr-x 1 IYANU MIRABILA 197121   32 Mar  8 00:39 0-hello_world
+-rwxr-xr-x 1 IYANU MIRABILA 197121   28 Mar  8 00:57 1-confused_smiley
+-rwxr-xr-x 1 IYANU MIRABILA 197121   28 Mar  8 01:00 2-hellofile
+-rwxr-xr-x 1 IYANU MIRABILA 197121   39 Mar  8 01:06 3-twofiles
+-rwxr-xr-x 1 IYANU MIRABILA 197121   29 Mar  8 01:09 4-lastlines
+-rwxr-xr-x 1 IYANU MIRABILA 197121   29 Mar  8 01:12 5-firstlines
+-rwxr-xr-x 1 IYANU MIRABILA 197121   36 Mar  8 01:16 6-third_line
+-rwxr-xr-x 1 IYANU MIRABILA 197121   99 Mar  8 01:58 7-file
+-rwxr-xr-x 1 IYANU MIRABILA 197121   36 Mar  8 02:01 8-cwd_state
+-rw-r--r-- 1 IYANU MIRABILA 197121 2495 Mar  8 00:54 README.md
+-rw-r--r-- 1 IYANU MIRABILA 197121    0 Mar  8 02:01 ls_cwd_content
